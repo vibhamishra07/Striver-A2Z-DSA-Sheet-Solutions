@@ -1,4 +1,4 @@
 # Striver-A2Z-DSA-Sheet-Solutions
 
-This repository is created for strivers A2Z dsa sheet solutions.
+This repo contains cpp solutions for A2Z DSA sheet problems.
 It only contains solutions function for every questions.
